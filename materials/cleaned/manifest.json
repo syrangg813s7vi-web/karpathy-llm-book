@@ -1,0 +1,66 @@
+{
+  "files": [
+    {
+      "name": "7xTGNNLPyMI_text.txt",
+      "title": "Deep Dive into LLMs like ChatGPT",
+      "chars": 215364
+    },
+    {
+      "name": "l8pRSuU81PU_text.txt",
+      "title": "Let's reproduce GPT-2 (124M)",
+      "chars": 223342
+    },
+    {
+      "name": "zduSFxRajkE_text.txt",
+      "title": "Let's build the GPT Tokenizer",
+      "chars": 127302
+    },
+    {
+      "name": "P6sfmUTpUmc_text.txt",
+      "title": "Building makemore Part 3: Activations & Gradients, BatchNorm",
+      "chars": 112671
+    },
+    {
+      "name": "VMj-3S1tku0_text.txt",
+      "title": "The spelled-out intro to neural networks and backpropagation: building micrograd",
+      "chars": 123196
+    },
+    {
+      "name": "kCc8FmEb1nY_text.txt",
+      "title": "Let's build GPT: from scratch, in code, spelled out.",
+      "chars": 108990
+    },
+    {
+      "name": "q8SA3rM6ckI_text.txt",
+      "title": "Building makemore Part 4: Becoming a Backprop Ninja",
+      "chars": 106184
+    },
+    {
+      "name": "PaCmpygFfXo_text.txt",
+      "title": "The spelled-out intro to language modeling: building makemore",
+      "chars": 100179
+    },
+    {
+      "name": "TCH_1BHY58I_text.txt",
+      "title": "Building makemore Part 2: MLP",
+      "chars": 65941
+    },
+    {
+      "name": "t3YJ5hKiMQ0_text.txt",
+      "title": "Building makemore Part 5: Building a WaveNet",
+      "chars": 54588
+    },
+    {
+      "name": "zjkBMFhNj_g_text.txt",
+      "title": "[1hr Talk] Intro to Large Language Models",
+      "chars": 64352
+    },
+    {
+      "name": "EWvNQjAaOHw_text.txt",
+      "title": "How I use LLMs",
+      "chars": 129026
+    }
+  ],
+  "file_count": 12,
+  "total_chars": 1431135
+}
