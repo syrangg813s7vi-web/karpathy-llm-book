@@ -1,0 +1,13 @@
+[book]
+authors = ["整理自 Andrej Karpathy 的讲座"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Karpathy 的 LLM 世界"
+description = "从 Andrej Karpathy 的讲座中提炼的 LLM 深度思维框架与工程实践方法论"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/placeholder/karpathy-llm-book"
+git-repository-icon = "fa-github"
